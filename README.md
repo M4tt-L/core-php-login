@@ -6,3 +6,4 @@ Prodecure to setup project
 3. Import sql file named "progesh.sql"
 4. Run the project
 5. Enter email/password as admin@admin.com/admin
+b
